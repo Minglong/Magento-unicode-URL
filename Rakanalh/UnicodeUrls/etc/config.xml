@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <modules>
-        <rakanalh_UnicodeUrls>
+        <Rakanalh_UnicodeUrls>
             <version>0.0.2</version>
-        </rakanalh_UnicodeUrls>
+        </Rakanalh_UnicodeUrls>
     </modules>
     <global>
         <models>
             <catalog>
                 <rewrite>
-                    <product_url>rakanalh_UnicodeUrls_Model_Product_Url</product_url>
-                    <category>rakanalh_UnicodeUrls_Model_Category</category>
+                    <product_url>Rakanalh_UnicodeUrls_Model_Product_Url</product_url>
+                    <category>Rakanalh_UnicodeUrls_Model_Category</category>
                 </rewrite>
             </catalog>
             <core_resource>
                 <rewrite>
-                    <url_rewrite>rakanalh_UnicodeUrls_Model_Resource_Url_Rewrite</url_rewrite>
+                    <url_rewrite>Rakanalh_UnicodeUrls_Model_Resource_Url_Rewrite</url_rewrite>
                 </rewrite>
             </core_resource>
         </models>

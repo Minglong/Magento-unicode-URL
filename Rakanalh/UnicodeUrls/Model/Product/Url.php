@@ -1,5 +1,5 @@
 <?php
-class N2Vlabs_UnicodeUrls_Model_Product_Url extends Mage_Catalog_Model_Product_Url
+class Rakanalh_UnicodeUrls_Model_Product_Url extends Mage_Catalog_Model_Product_Url
 {
     public function formatUrlKey($str)
     {
