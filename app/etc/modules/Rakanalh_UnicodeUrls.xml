@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Rakanalh_UnicodeUrls>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Rakanalh_UnicodeUrls>
+    </modules>
+</config>
